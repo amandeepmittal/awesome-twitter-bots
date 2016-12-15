@@ -1,6 +1,6 @@
 # awesome-twitter-bots
 
-![](http://imgur.com/ivEkO6x)
+![](http://i.imgur.com/ivEkO6x.jpg)
 
 Complete Resource of Twitter Bots built with NodeJS.
 
