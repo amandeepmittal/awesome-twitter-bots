@@ -16,7 +16,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 
 ## Twitter Bots 
 * [MEAN Stack News](https://twitter.com/nodejstweet)
-* [100 Days Of Code: Community Bot](https://twitter.com/_100DaysOfCode)
+* [#100DaysOfCode: Community Bot](https://twitter.com/_100DaysOfCode)
 
 ---
 
