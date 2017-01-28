@@ -11,6 +11,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 ### Articles
 * [Create a Simple Twitter Bot Part 1](https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08)
 * [Create a Simple Twitter Bot Part 2](https://community.risingstack.com/how-to-make-a-twitter-bot-with-node-js/)
+* [Easily Set Up Your Own Twitter Bot](https://medium.com/@spences10/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.y9n2l4496)
 
 ---
 
