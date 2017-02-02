@@ -21,7 +21,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 * spences10-twitter-bot - [Repo](https://github.com/spences10/spences10-twitter-bot) - [Twitter Link](https://twitter.com/ScottDevTweets)
 * SuperHeroesBot - [Repo](https://github.com/EQuimper/MyOwnChallenge-SuperHeroesTwitterBotCoding) - [Twitter Link](https://twitter.com/heroes_bot)
 * Twitter bot bootstrap - [Repo](https://github.com/spences10/twitter-bot-bootstrap) - [Twitter Link](https://twitter.com/droidscott)
-
+* JO Bot - [Repo](https://github.com/javierojeda94/jo-twitter-bot) - [Twitter Link](https://twitter.com/bot_javierojeda)
 ---
 
 ### Contributing
