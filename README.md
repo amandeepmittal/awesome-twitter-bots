@@ -19,7 +19,6 @@ Complete Resource of Twitter Bots built with NodeJS.
 ## Twitter Bots 
 * MEAN Stack News - [Repo](https://github.com/amandeepmittal/nodejs-tweet) - [Twitter Link](https://twitter.com/nodejstweet)
 * 100 Days Of Code: Community Bot - [Repo](https://github.com/amandeepmittal/100DaysOfCode) - [Twitter Link](https://twitter.com/_100DaysOfCode)
-* spences10-twitter-bot - [Repo](https://github.com/spences10/spences10-twitter-bot) - [Twitter Link](https://twitter.com/ScottDevTweets)
 * SuperHeroesBot - [Repo](https://github.com/EQuimper/MyOwnChallenge-SuperHeroesTwitterBotCoding) - [Twitter Link](https://twitter.com/heroes_bot)
 * Twitter bot bootstrap - [Repo](https://github.com/spences10/twitter-bot-bootstrap) - [Twitter Link](https://twitter.com/droidscott)
 * JO Bot - [Repo](https://github.com/javierojeda94/jo-twitter-bot) - [Twitter Link](https://twitter.com/bot_javierojeda)
