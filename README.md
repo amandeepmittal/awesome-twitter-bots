@@ -17,6 +17,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 * [Twitter bot playground][twitter-bot-playground]
 * [Bot Wiki Twitter bot tutorials][bot-wiki-node]
 * [Build a simple Twitter Bot with Node.js in just 38 lines of code][bot-node-code]
+* [Build a simple Twitter Bot with Node.js Part 2: DO MORE][bot-node-code2]
 
 ---
 
@@ -57,6 +58,7 @@ To the extent possible under law, [Aman Mittal][aman-github] has waived all copy
 [twitter-bot-playground]: https://github.com/spences10/twitter-bot-playground#twitter-bot-playground
 [bot-wiki-node]: http://www.botwiki.org/tutorials/twitterbots/#tutorials-nodejs
 [bot-node-code]: https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078
+[bot-node-code2]: https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d
 
 <!--bots and code-->
 [msn-bot-repo]: https://github.com/amandeepmittal/nodejs-tweet
