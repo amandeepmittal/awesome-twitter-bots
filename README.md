@@ -29,6 +29,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 * JO Bot - [Repo][jo-bot-repo] - [Twitter Link][jo-bot-twitter]
 * FiF0o Twitter app - [Repo][fif00-bot-repo] - [App Link][fif00-bot-twitter]
 * @nikkilr88 twitter-bot - [Repo](https://github.com/nikkilr88/twitter-bot) - [Twitter Link](https://twitter.com/GitLit000)
+* Unfollow Bot - [Repo](https://github.com/kutyel/twitter-unfollow-bot)
 
 ---
 
