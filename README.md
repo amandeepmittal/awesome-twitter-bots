@@ -32,6 +32,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 * Unfollow Bot - [Repo](https://github.com/kutyel/twitter-unfollow-bot)
 * Smart Home Bot - [Repo](https://github.com/CCOSTAN/Home-AssistantConfig) - [Twitter Link](https://twitter.com/BearStoneHA)
 * Year Progress Twitter Bot - [Repo](https://github.com/MrDatastorage/Year-Progress-Twitter-Bot) - [Twitter Link](https://twitter.com/YProgressNodeJS)
+* Quotter - [Repo](https://github.com/vinitshahdeo/Quotter) - [Twitter Link](https://twitter.com/SayHiToQuotter)
 
 ---
 
