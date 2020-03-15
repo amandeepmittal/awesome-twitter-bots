@@ -37,7 +37,7 @@ Complete Resource of Twitter Bots built with Node.js and other languages.
 * Quotter - [Repo](https://github.com/vinitshahdeo/Quotter) - [Twitter Link](https://twitter.com/SayHiToQuotter)
 
 ## With other Languages/Frameworks
-* Coronavirus Bot - [Repo][https://github.com/AlbertSuarez/covid19-bot] - [Twitter Link][https://twitter.com/coronavid19_bot]
+* Coronavirus Bot - [Repo](https://github.com/AlbertSuarez/covid19-bot) - [Twitter Link](https://twitter.com/coronavid19_bot)
 
 ---
 
