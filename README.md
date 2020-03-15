@@ -25,6 +25,7 @@ Complete Resource of Twitter Bots built with NodeJS.
 * 100 Days Of Code: Community Bot - [Repo][100doc-bot-repo] - [Twitter Link][100doc-bot-twitter]
 * ProjectEuler100 Community Bot - [Repo](https://github.com/amandeepmittal/projectEuler100-twitter-bot) - [Twitter Link](https://twitter.com/ProjectEuler100)
 * AWSCertified Community Bot - [Repo](https://github.com/amandeepmittal/awscertified-twitter-bot) - [Twitter Link](https://twitter.com/AWSCertifiedBot)
+* Coronavirus Bot - [Repo][https://github.com/AlbertSuarez/covid19-bot] - [Twitter Link][https://twitter.com/coronavid19_bot]
 * MEAN Stack News - [Repo][msn-bot-repo] - [Twitter Link][msn-bot-twitter]
 * SuperHeroesBot - [Repo][super-hero-repo] - [Twitter Link][super-hero-twitter]
 * Twitter bot bootstrap - [Repo][tbbs-repo] - [Twitter Link][tbbs-twitter]
