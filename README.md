@@ -35,6 +35,8 @@ Complete Resource of Twitter Bots built with Node.js and other languages.
 * Smart Home Bot - [Repo](https://github.com/CCOSTAN/Home-AssistantConfig) - [Twitter Link](https://twitter.com/BearStoneHA)
 * Year Progress Twitter Bot - [Repo](https://github.com/MrDatastorage/Year-Progress-Twitter-Bot) - [Twitter Link](https://twitter.com/YProgressNodeJS)
 * Quotter - [Repo](https://github.com/vinitshahdeo/Quotter) - [Twitter Link](https://twitter.com/SayHiToQuotter)
+* Chuck Norris - [Repo](https://github.com/dephraiim/chucknorris) - [Twitter Link](https://twitter.com/chuckchucknock)
+* 100 Days Of Projects Bot - [Repo](https://github.com/dephraiim/100DaysOfProjectsBot) - [Twitter Link](https://twitter.com/_100ProjectDays)
 
 ## With other Languages/Frameworks
 * Coronavirus Bot - [Repo](https://github.com/AlbertSuarez/covid19-bot) - [Twitter Link](https://twitter.com/coronavid19_bot)
