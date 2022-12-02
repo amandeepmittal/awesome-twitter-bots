@@ -6,6 +6,12 @@
 
 Complete Resource of Twitter Bots built with Node.js and other languages.
 
+> **Warning**
+>
+> This repository is now archived.
+>
+> This has been one of my first projects that I ever built with help of friends and community and other learning materials over the internet. This repo compiles a list of articiles/tutorials and live/working examples of Twtiter bots (mostly created in Node.js). Never expected it's impact will be bigger. I had fun building bots and creating learning resources.
+
 ---
 
 ## Guide/Tutorials
